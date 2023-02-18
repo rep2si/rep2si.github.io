@@ -1,0 +1,13 @@
+---
+title: "Project Background"
+---
+
+This project grows out of Dr. Power's earlier fieldwork and research in Tamil Nadu.
+
+You can read the original project proposal below:
+
+```{=html}
+<object data="https://eapower.github.io/EPower_Leverhulme_Research_Leadership_Award_Bid.pdf" type="application/pdf" width="100%" height="100%">
+
+</object>
+```
