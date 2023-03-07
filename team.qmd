@@ -10,7 +10,7 @@ The Rep²SI team will be an interdisciplinary group, with three postdoctoral res
     <img src="/figures/elly.jpg" alt="Photo of Eleanor Power"  role="presentation" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;" class="img-responsive atto_image_button_text-bottom">
     <figcaption>
         <strong>Dr.&nbsp;<span><a href="https://eapower.github.io/" target="_blank" class="external">Eleanor A. Power</a></span></strong> 
-        <br>Assistant Professor, Dept. of Methodology
+        <br>Associate Professor, Dept. of Methodology
         <br>London School of Economics
     </figcaption>
 
