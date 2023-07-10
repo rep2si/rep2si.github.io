@@ -5,11 +5,6 @@ about:
     image: figures/kuttam.jpg
 ---
 
-Rep²SI (**Reputation** and the **Reproduction** of **Social Inequality**) is a project based in the [Department of Methodology](https://www.lse.ac.uk/Methodology) at the [London School of Economics](https://www.lse.ac.uk/), funded by a Research Leadership Award from the [Leverhulme Trust](leverhulme.ac.uk/). 
+Rep²SI (**Reputation** and the **Reproduction** of **Social Inequality**) is a project based in the [Department of Methodology](https://www.lse.ac.uk/Methodology) at the [London School of Economics](https://www.lse.ac.uk/), funded by a Research Leadership Award from the [Leverhulme Trust](https://www.leverhulme.ac.uk/). 
 
-This is a collaborative project, with an interdisciplinary [team](team.qmd) led by Dr. [Eleanor Power](https://eapower.github.io/). Applications for three of the postdoctoral research officer posts are now live, with a submission deadline of 21 April 2023. We expect to hold virtual interviews in early May and would hope to have people starting in post in autumn 2023. 
-
-We will be hiring *two* [Research Officers in South Asian Ethnography](https://jobs.lse.ac.uk/Vacancies/W/1817/0/383659/15539/research-officer-in-south-asian-ethnography) and one [Research Officer in Experimental Games](https://jobs.lse.ac.uk/Vacancies/W/4976/0/383530/15539/research-officer-in-experimental-games). 
-
-You can see details of the job description, person specification, and application materials with the job ad. Feel free to reach out to Dr. Power with any questions about the posts. 
-
+This is a collaborative project, with an interdisciplinary [team](team.qmd) led by Dr. [Eleanor Power](https://eapower.github.io/). See the "[About](about.qmd)" page for more details on the project. 
