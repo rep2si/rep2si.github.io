@@ -2,57 +2,60 @@
 title: "Team"
 ---
 
-The Rep²SI team will be an interdisciplinary group! We are advertising for three postdoctoral research officer posts now!
+The Rep²SI team is an interdisciplinary group!
 
+:::columns
 
-::: {.column style="display:inline-block;width:400px;height:260px;border-radius:1em;margin:1%;padding:1.5%;background-color:#fafafa"}
+::: {.column style="display:inline-block;width:780px;height:260px;border-radius:1em;margin:1%;padding:1.5%;background-color:#fafafa"}
 <figure>
     <img src="/figures/elly.jpg" alt="Photo of Eleanor Power"  role="presentation" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;" class="img-responsive atto_image_button_text-bottom">
     <figcaption>
-        <strong>Dr.&nbsp;<span><a href="https://eapower.github.io/" target="_blank" class="external">Eleanor A. Power</a></span></strong> 
+        <strong>Dr <span><a href="https://eapower.github.io/" target="_blank" class="external">Eleanor A. Power</a></span></strong> 
         <br>Associate Professor, Dept. of Methodology
         <br>London School of Economics
+        <br>Principal Investigator
     </figcaption>
 
 </figure>
 ::: 
 
-::: {layout-ncol=2}
-
-::: {.column style="display:inline-block;width:400px;height:260px;border-radius:1em;margin:1%;padding:1.5%;background-color:#fafafa"}
+::: {.column style="display:inline-block;width:380px;height:260px;border-radius:1em;margin:1%;padding:1.5%;background-color:#fafafa"}
 <figure>
-    <img src="/figures/tbd.svg" alt="Person TBD"  role="presentation" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;" class="img-responsive atto_image_button_text-bottom">
+    <img src="/figures/ivan.jpg" alt="Photograph of Ivan Deschenaux"  role="presentation" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;" class="img-responsive atto_image_button_text-bottom">
     <figcaption>
-        <strong><span><a href="https://jobs.lse.ac.uk/Vacancies/W/1817/0/383659/15539/research-officer-in-south-asian-ethnography" target="_blank" class="external">South Asian Ethnography Research Officer</a></span> #1 </strong> 
-        <br>*Application Deadline is 21 April 2023!*
+        <strong>Dr <a href="http://ivandx.com" target="_blank" class="external">Ivan Deschenaux</a></strong> 
+        <br>South Asian Ethnography Research Officer
+        <br>London School of Economics
     </figcaption>
 
 </figure>
 :::
 
-::: {.column style="display:inline-block;width:400px;height:260px;border-radius:1em;margin:1%;padding:1.5%;background-color:#fafafa"}
+::: {.column style="display:inline-block;width:380px;height:260px;border-radius:1em;margin:1%;padding:1.5%;background-color:#fafafa"}
 <figure>
-    <img src="/figures/tbd.svg" alt="Person TBD"  role="presentation" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;" class="img-responsive atto_image_button_text-bottom">
+    <img src="/figures/komal.jpg" alt="Photograph of Komal Chauhan"  role="presentation" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;" class="img-responsive atto_image_button_text-bottom">
     <figcaption>
-        <strong><span><a href="https://jobs.lse.ac.uk/Vacancies/W/1817/0/383659/15539/research-officer-in-south-asian-ethnography" target="_blank" class="external">South Asian Ethnography Research Officer</a></span> #2 </strong> 
-        <br>*Application Deadline is 21 April 2023!*
+        <strong>Komal Chauhan</strong> 
+        <br>South Asian Ethnography Research Officer
+        <br>London School of Economics
     </figcaption>
 
 </figure>
 :::
 
-::: {.column style="display:inline-block;width:400px;height:260px;border-radius:1em;margin:1%;padding:1.5%;background-color:#fafafa"}
+::: {.column style="display:inline-block;width:380px;height:260px;border-radius:1em;margin:1%;padding:1.5%;background-color:#fafafa"}
 <figure>
-    <img src="/figures/tbd.svg" alt="Person TBD"  role="presentation" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;" class="img-responsive atto_image_button_text-bottom">
+    <img src="/figures/poorvi.jpg" alt="Photograph of Poorvi Iyer"  role="presentation" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;" class="img-responsive atto_image_button_text-bottom">
     <figcaption>
-        <strong><span><a href="https://jobs.lse.ac.uk/Vacancies/W/4976/0/383530/15539/research-officer-in-experimental-games" target="_blank" class="external">Experimental Games Research Officer</a></span></strong> 
-        <br>*Application Deadline is 21 April 2023!*
+        <strong>Poorvi Iyer</strong> 
+        <br> Experimental games officer
+        <br> London School of Economics
     </figcaption>
 
 </figure>
 :::
 
-::: {.column style="display:inline-block;width:400px;height:260px;border-radius:1em;margin:1%;padding:1.5%;background-color:#fafafa"}
+::: {.column style="display:inline-block;width:380px;height:260px;border-radius:1em;margin:1%;padding:1.5%;background-color:#fafafa"}
 <figure>
     <img src="/figures/tbd.svg" alt="Person TBD"  role="presentation" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;" class="img-responsive atto_image_button_text-bottom">
     <figcaption>
