@@ -6,7 +6,7 @@ The Rep²SI team is an interdisciplinary group!
 
 :::columns
 
-::: {.column style="display:inline-block;width:780px;height:260px;border-radius:1em;margin:1%;padding:1.5%;background-color:#fafafa"}
+::: {.column style="display:inline-block;width:380px;height:260px;border-radius:1em;margin:1%;padding:1.5%;background-color:#fafafa"}
 <figure>
     <img src="/figures/elly.jpg" alt="Photo of Eleanor Power"  role="presentation" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;" class="img-responsive atto_image_button_text-bottom">
     <figcaption>
@@ -21,9 +21,9 @@ The Rep²SI team is an interdisciplinary group!
 
 ::: {.column style="display:inline-block;width:380px;height:260px;border-radius:1em;margin:1%;padding:1.5%;background-color:#fafafa"}
 <figure>
-    <img src="/figures/ivan.jpg" alt="Photograph of Ivan Deschenaux"  role="presentation" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;" class="img-responsive atto_image_button_text-bottom">
+    <img src="/figures/komal.jpg" alt="Photograph of Komal Chauhan"  role="presentation" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;" class="img-responsive atto_image_button_text-bottom">
     <figcaption>
-        <strong>Dr <a href="http://ivandx.com" target="_blank" class="external">Ivan Deschenaux</a></strong> 
+        <strong>Komal Chauhan</strong> 
         <br>South Asian Ethnography Research Officer
         <br>London School of Economics
     </figcaption>
@@ -33,9 +33,9 @@ The Rep²SI team is an interdisciplinary group!
 
 ::: {.column style="display:inline-block;width:380px;height:260px;border-radius:1em;margin:1%;padding:1.5%;background-color:#fafafa"}
 <figure>
-    <img src="/figures/komal.jpg" alt="Photograph of Komal Chauhan"  role="presentation" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;" class="img-responsive atto_image_button_text-bottom">
+    <img src="/figures/ivan.jpg" alt="Photograph of Ivan Deschenaux"  role="presentation" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;" class="img-responsive atto_image_button_text-bottom">
     <figcaption>
-        <strong>Komal Chauhan</strong> 
+        <strong>Dr <a href="http://ivandx.com" target="_blank" class="external">Ivan Deschenaux</a></strong> 
         <br>South Asian Ethnography Research Officer
         <br>London School of Economics
     </figcaption>
