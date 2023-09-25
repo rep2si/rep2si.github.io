@@ -1,0 +1,6 @@
+---
+title: "Contact"
+---
+
+<!--- uses simple javacript email obfuscation--->
+You can contact us at <a href="javascript:location='mailto:\u004d\u0065\u0074\u0068\u006f\u0064\u006f\u006c\u006f\u0067\u0079\u002e\u0052\u0065\u0070\u0032\u0073\u0069\u0040\u006c\u0073\u0065\u002e\u0061\u0063\u002e\u0075\u006b';void 0"><script type="text/javascript">document.write('\u004d\u0065\u0074\u0068\u006f\u0064\u006f\u006c\u006f\u0067\u0079\u002e\u0052\u0065\u0070\u0032\u0073\u0069\u0040\u006c\u0073\u0065\u002e\u0061\u0063\u002e\u0075\u006b')</script></a>

@@ -13,6 +13,8 @@ website:
         file: about.qmd
       - text: "Team"
         file: team.qmd 
+      - text: "Contact"
+        file: contact.qmd 
 
 format:
   html:
