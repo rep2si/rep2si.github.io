@@ -2,7 +2,7 @@
 
 Generates [the rep2si website](https://rep2si.github.io/).
 
-Any edits should happen directly in the `*.qmd` and `_quarto.yml` files. The html pages are stored in `_site`, but these should never be edited directly. Instead, they should be generated with quarto.
+Any edits should happen directly in the `*.qmd` and `_quarto.yml` files. The html pages are stored in `docs`, but these should never be edited directly. Instead, they should be generated with quarto.
 
 The pages are deployed automatically using [github pages](https://pages.github.com/).
 
