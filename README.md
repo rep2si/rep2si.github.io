@@ -10,7 +10,7 @@ The pages are deployed automatically using [github pages](https://pages.github.c
 
 1. Make changes to `*.qmd` and `_quarto.yml` (on a new branch, as usual).
 2. Ensure you have the latest version of quarto installed: `brew install --cask quarto`
-3. Generate the content of `_site` by running `quarto --render`
+3. Generate the content of `_site` by running `quarto render`
 4. Push changes and create a new pull request as usual
 
 ## Directory structure and style guide
