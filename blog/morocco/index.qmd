@@ -1,0 +1,14 @@
+---
+title: "Morocco"
+date: "2024-08-14"
+#image: Add image!
+draft: false
+freeze: false
+appendix-style: default #(default, plain, none)
+bibliography: ../rep2si.bib
+format: html
+---
+
+# Morocco Fieldwork
+
+In March 2024, Poorvi joined collaborators [Sarah Alami and Ed Seabright](https://codemlab.github.io/) in further fieldwork in the Atlas Mountains in Morocco. The two are based at the [School of Collective Intelligence](https://sci.um6p.ma/) at the [University Mohammed VI Polytechnic](https://www.um6p.ma/en). 

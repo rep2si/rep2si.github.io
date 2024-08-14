@@ -1,0 +1,26 @@
+# options apply to all posts in this folder
+
+# freeze computational output
+freeze: auto
+
+# Make a big title block
+title-block-banner: false
+
+# long dates
+date-format: long
+
+# smooth scroll
+smooth-scroll: true
+
+# Default author
+author:
+  - name: Rep2SI
+    url: https://rep2si.github.io/
+
+# citation
+citation: false
+
+# Enable CC licence appendix
+#license: "CC BY"
+
+bibliography: ../rep2si.bib

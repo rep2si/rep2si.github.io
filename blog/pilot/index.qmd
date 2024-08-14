@@ -1,0 +1,18 @@
+---
+title: "Piloting"
+description: |
+    Our first pilot work
+date: "2024-08-14"
+image: IMG_3386.JPG
+draft: false
+freeze: false
+appendix-style: default #(default, plain, none)
+bibliography: ../rep2si.bib
+format: html
+---
+
+# Pilot Fieldwork
+
+![](IMG_3386.jpg "The research team for the pilot."){fig-alt="Photo of the research team for the pilot." width="50%" fig-align="center"}
+
+In December 2023, we embarked on our first pilot work for the Rep²SI project. We were helped by [DAI Advisory](https://www.daiadvisory.org/) in this work. 
