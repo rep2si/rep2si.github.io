@@ -1,0 +1,11 @@
+---
+title: "Blog"
+listing:
+  contents: blog
+  sort: "date desc"
+  date-format: iso
+  type: default # default / grid / table
+  #fields: [image, date, title, reading-time] # image, reading-time
+  categories: false
+  feed: false
+---
