@@ -1,0 +1,24 @@
+---
+title: "First period of fieldwork in Nepal"
+description: |
+    A short account of Ivan Deschenaux's fieldwork in Nepal from February to July 2024.
+date: "2024-08-14"
+image: team.jpg
+draft: false
+author: "Ivan Deschenaux"
+freeze: false
+appendix-style: default #(default, plain, none)
+format: html
+---
+
+My work began with locating a community that meets the requirements of the rep²si project. This meant finding a village of the appropriate size, with a mix of different castes and ethnic groups. I benefited tremendously from the help of Mr Ratna Bishwakarma at this stage of the project, who took me to visit a number of villages in his home district of Sindupalchowk.
+
+![A view of Ivan's fieldsite](01.jpg "A photograph of a village in Nepal. A man carries large wooden poles on his back as he walks along a road in the village.")
+
+Once an appropriate village was located, I began collecting kinship, demographic, GIS and wealth data for all its residents. Acquiring this information for each of the 173 households that make up the community was a long process; this is by far what I spent most of my time on. In parallel, I also conducted some semi-structured interviews and did some general participant observation in the community.
+
+![The village in which I work is fairly spread out. Clusters of houses are separated by dirt roads and small footpaths such as these.](02.jpg "A photograph of footpaths in the Himalaya. Two small paths branch left and righ amid trees and other vegetation.")
+
+I was lucky to work with some very talented research assistants. Ms Abhilasha Sharma helped me throughout the fieldwork, and the two of us were later joined by three students in anthropology from Tribhuvan University: Anurag Lamsal, Samana Rai and Amar Hang. Working with multiple research assistants was a new and deeply enjoyable experience for me. I found it particularly stimulating to collaborate with young (and highly talented) students from my own discipline, and getting to hear their own perspectives on social science and research in Nepal was enriching.
+
+![The research team for Nepal](team.jpg "A photograph of Ivan Deschenaux, Amar Hang, Samana Rai, Anurag Lamsal and Abhilasha Sharma. In the background are some Himalayan hills.")

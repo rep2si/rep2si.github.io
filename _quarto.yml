@@ -13,8 +13,8 @@ website:
         file: about.qmd
       - text: "Team"
         file: team.qmd 
-#      - text: "Blog"
-#        file: blog.qmd
+      - text: "Blog"
+        file: blog.qmd
       - text: "Contact"
         file: contact.qmd 
 
