@@ -2,7 +2,7 @@
 title: "Morocco"
 date: "2024-08-14"
 #image: Add image!
-draft: false
+draft: true
 freeze: false
 appendix-style: default #(default, plain, none)
 bibliography: ../rep2si.bib

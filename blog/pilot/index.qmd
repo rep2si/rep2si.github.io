@@ -4,7 +4,7 @@ description: |
     Our first pilot work
 date: "2024-08-14"
 image: IMG_3386.JPG
-draft: false
+draft: true
 freeze: false
 appendix-style: default #(default, plain, none)
 bibliography: ../rep2si.bib
