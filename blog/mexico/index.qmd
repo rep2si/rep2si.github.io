@@ -1,0 +1,14 @@
+---
+title: "Mexico"
+date: "2025-01-18"
+#image: Add image!
+draft: true
+freeze: false
+appendix-style: default #(default, plain, none)
+bibliography: ../rep2si.bib
+format: html
+---
+
+# Mexico Fieldwork
+
+In September 2024, Poorvi joined collaborator [Werner Hertzog](https://www.isek.uzh.ch/en/anthropology/about/people/staff/H/wernerhertzog.html) in fieldwork in Chiapas, Mexico. 

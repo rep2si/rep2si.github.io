@@ -1,0 +1,45 @@
+---
+title: "New Tools for Fieldwork"
+description: |
+    Preview of the research tools we're developing.
+date: "2025-01-18"
+image: https://github.com/rep2si/here-comes-the-fuzz/raw/main/fuzz-demo.gif
+draft: true
+freeze: false
+appendix-style: default #(default, plain, none)
+bibliography: ../rep2si.bib
+csl: ../ieee.csl
+format: html
+---
+
+One aspect of the Rep²SI project that has been particularly rewarding, if also at times confounding, is our development of new tools for our fieldwork. Just as we've built on the work of others, we're hopeful others will use and build on what we've put together. We'll have some later posts that go into more detail on each of these, but here is a preview! 
+
+## DieTryin
+
+A major jumping off point for the overall project has been [**DieTryin**](https://github.com/ctross/DieTryin) [@rossDieTryinPackageData2022], developed by [Cody Ross](https://www.eva.mpg.de/ecology/staff/cody-ross/), inspired by [Matt Gervais](https://www.brunel.ac.uk/people/matthew-gervais)'s "RICH" games [@gervaisRICHEconomicGames2017]. These are economic games that use "recipient identity-conditioned heuristics" (hence "RICH"). Meaning, participants make decisions about a range of partners, presented to them via photos. Cody has put together some great resources for gathering RICH data across a number of possible mediums. We've run with the [Android app](https://github.com/ctross/DieTryinSR) that he originally developed, [customizing it extensively](https://github.com/rep2si/DieTryinSR) for our own purposes. 
+
+For us, that means things like presenting participants with photos of partners with whom they play the [Dictator Game](https://en.wikipedia.org/wiki/Dictator_game):
+
+![DieTryin](dietryin.png){height=400}
+
+
+## Tools for Social Network Data Collection
+
+Another element of our work has been gathering social network data (as part of the larger [ENDOW Project](https://endowproject.github.io/)). We've developed some tools to make that as streamlined a process as possible for us and for the respondents. 
+
+### Here Comes The Fuzz
+
+A crucial but difficult task when gathering social network data is correctly identifying the people whom a respondent names. To help with that, we developed [**Here Comes The Fuzz**](https://github.com/rep2si/here-comes-the-fuzz), a customisable tool for creating a searchable database with [fuzzy search](https://en.wikipedia.org/wiki/Approximate_string_matching). Fuzzy search is helpful when there are different ways to spell names (*Laxmi* versus *Lakshmi*) or different name variants (*Bill* versus *William*), which would be missed with a standard search. The tool let's the user customize which fields appear and how they're searched, so that we can quickly hone in on the right person. There's the option to include photos, so the participant can easily confirm if the right person has been found. 
+
+Here's a demo of how it works: 
+![Here Comes the Fuzz](https://github.com/rep2si/here-comes-the-fuzz/raw/main/fuzz-demo.gif)
+
+You can try it out for yourself [here](https://rep2si.github.io/fuzz). 
+
+### GenNGen
+
+We've been gathering social network data [Kobo](https://www.kobotoolbox.org/), a popular tool for conducting field surveys with tablets. With it, we were able to start plotting networks within hours of finishing data collection, which is just mindblowing, if you're used to many tedious days of data entry! Creating the underlying XLS Forms for use with Kobo, though, can be a bit unwieldly. So, in a way akin to [XLSFormulator](https://github.com/ADR1993/XLSFormulatoR) [@ragione_xlsform_2024], we've developed [**GenNGen**](https://github.com/rep2si/genngen). With this, you start with a basic template and use our code to expand it to *generate* all of the *name generators* you need (hence GenNGen) in the necessary XLS format:
+
+![GenNGen](genngen_output.png)
+
+More to come on all of these tools down the line! Please look to the GitHub repos, clone, flag issues, make pull requests, etc! We hope these are useful! 
