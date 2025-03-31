@@ -8,3 +8,5 @@ about:
 Rep²SI (**Reputation** and the **Reproduction** of **Social Inequality**) is a project based in the [Department of Methodology](https://www.lse.ac.uk/Methodology) at the [London School of Economics](https://www.lse.ac.uk/), funded by a Research Leadership Award from the [Leverhulme Trust](https://www.leverhulme.ac.uk/). 
 
 This is a collaborative project, with an interdisciplinary [team](team.qmd) led by Dr. [Eleanor Power](https://eapower.github.io/). See the "[About](about.qmd)" page for more details on the project. 
+
+👉 **We are currently advertising for a two-year postdoctoral [Research Officer in Modelling Social Dynamics](https://jobs.lse.ac.uk/Vacancies/W/2298/0/448714/15539/research-officer-in-modelling-social-dynamics)! Join us! Apply by 4 May 2025.** 
