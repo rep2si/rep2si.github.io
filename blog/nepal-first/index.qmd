@@ -3,6 +3,8 @@ title: "First period of fieldwork in Nepal"
 description: |
     A short account of Ivan Deschenaux's fieldwork in Nepal from February to July 2024.
 date: "2024-08-14"
+categories: 
+  - fieldwork
 image: team.jpg
 draft: false
 author: "Ivan Deschenaux"

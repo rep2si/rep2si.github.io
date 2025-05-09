@@ -1,0 +1,16 @@
+---
+title: "Talk at TSE"
+date: "2024-06-03"
+#image: Add image!
+categories: 
+  - talks
+draft: false
+freeze: false
+appendix-style: default #(default, plain, none)
+bibliography: ../rep2si.bib
+format: html
+---
+
+# Talk at IAST/TSE
+
+On June 3, Eleanor presented on the Rep²SI project as part of the [Inequality in Networks: Toulouse Economics and Biology Workshop](https://www.iast.fr/11th-toulouse-economics-and-biology-workshop) organised by the Institute for Advanced Study in Toulouse (IAST) and the Toulouse School of Economics and Quantitative Social Sciences (TSE). 

@@ -1,0 +1,16 @@
+---
+title: "Keynote at IMEBESS"
+date: "2023-05-19"
+#image: Add image!
+categories: 
+  - talks
+draft: false
+freeze: false
+appendix-style: default #(default, plain, none)
+bibliography: ../rep2si.bib
+format: html
+---
+
+# Keynote at IMEBESS
+
+On May 19, Eleanor presented on the Rep²SI project as part of the [the Seventh International Meeting on Experimental and Behavioral Social Sciences](https://imebess.org/2023/) in Lisbon, Portugal. 

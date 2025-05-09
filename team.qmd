@@ -55,7 +55,7 @@ The Rep²SI team is an interdisciplinary group!
     <img src="/figures/tbd.svg" alt="Person TBD"  role="presentation" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;" class="img-responsive atto_image_button_text-bottom">
     <figcaption>
         <strong>Research Officer in Modelling Social Dynamics</strong>
-        <br>*Advertising for this now! Details <a href="https://jobs.lse.ac.uk/Vacancies/W/2298/0/448714/15539/research-officer-in-modelling-social-dynamics" target="_blank" class="external">here</a>! Deadline 4 May 2025*
+        <br>TBD
     </figcaption>
 
 </figure>

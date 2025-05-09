@@ -4,6 +4,8 @@ description: |
     A short account of Komal Chauhan's fieldwork in India from February to June 2024.
 date: "2024-09-10"
 image: fieldworkvillage.jpg
+categories: 
+  - fieldwork
 draft: false
 author: "Komal Chauhan"
 freeze: false
