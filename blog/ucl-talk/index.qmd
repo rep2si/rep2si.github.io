@@ -1,0 +1,17 @@
+---
+title: "Talk at UCL"
+date: "2025-02-07"
+#image: Add image!
+categories: 
+  - talks
+draft: false
+freeze: false
+appendix-style: default #(default, plain, none)
+bibliography: ../rep2si.bib
+format: html
+---
+
+# Talk at University College London
+
+On November 7, Eleanor presented on the Rep²SI project as part of the [Workshop on Quantitative Comparative Anthropology](https://www.ucl.ac.uk/anthropology/events/2024/nov/evobios-workshop-quantitative-comparative-anthropology-methods-and-applications) held at UCL. 
+

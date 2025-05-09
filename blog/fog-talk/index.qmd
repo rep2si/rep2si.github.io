@@ -1,0 +1,17 @@
+---
+title: "Talk at Force of Gossip Conference"
+date: "2023-07-06"
+#image: Add image!
+categories: 
+  - talks
+draft: false
+freeze: false
+appendix-style: default #(default, plain, none)
+bibliography: ../rep2si.bib
+format: html
+---
+
+# Talk at Force of Gossip Conference
+
+On July 6, Eleanor presented some of the core ideas of the Rep²SI project at the [Force of Gossip](https://vu.nl/en/about-vu/research-institutes/force-of-gossip) conference in Amsterdam, organised as part of Bianca Beersma's ERC-funded project. 
+

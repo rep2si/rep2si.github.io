@@ -2,6 +2,8 @@
 title: "Morocco"
 date: "2024-08-14"
 #image: Add image!
+categories: 
+  - fieldwork
 draft: true
 freeze: false
 appendix-style: default #(default, plain, none)

@@ -1,0 +1,16 @@
+---
+title: "Talk at UNIL"
+date: "2024-04-11"
+#image: Add image!
+categories: 
+  - talks
+draft: false
+freeze: false
+appendix-style: default #(default, plain, none)
+bibliography: ../rep2si.bib
+format: html
+---
+
+# Talk at the University of Lausanne
+
+On April 11, Eleanor presented on the Rep²SI project at the University of Lausanne, in the [Behavior, Economics, and Evolution Lecture Series](https://www.unil.ch/ob/en/home/menuinst/seminars--events/bee-lecture-series.html). 

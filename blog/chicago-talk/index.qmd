@@ -1,0 +1,17 @@
+---
+title: "Talk at UChicago"
+date: "2025-03-27"
+#image: Add image!
+categories: 
+  - talks
+draft: false
+freeze: false
+appendix-style: default #(default, plain, none)
+bibliography: ../rep2si.bib
+format: html
+---
+
+# Talk at University of Chicago
+
+On March 27, Eleanor presented some of our first findings from the experimental games of the Rep²SI project at the University of Chicago, as part of the [Computational Workshop](https://github.com/uchicago-computation-workshop/Spring2025). 
+

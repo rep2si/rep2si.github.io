@@ -1,0 +1,17 @@
+---
+title: "Talk at Institut Jean-Nicod"
+date: "2024-10-02"
+#image: Add image!
+categories: 
+  - talks
+draft: false
+freeze: false
+appendix-style: default #(default, plain, none)
+bibliography: ../rep2si.bib
+format: html
+---
+
+# Talk at the Institut Jean-Nicod
+
+On October 2, Eleanor presented on the Rep²SI project at the workshop on Evolution, Reputation, and Human Social Behavior: Recent Advances, organised at the [Institut Jean-Nicod](http://www.institutnicod.org/). 
+
