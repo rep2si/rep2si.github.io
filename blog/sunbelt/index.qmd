@@ -1,0 +1,17 @@
+---
+title: "Sunbelt Conference"
+date: "2025-06-26"
+#image: Add image!
+categories: 
+  - talks
+draft: false
+freeze: false
+appendix-style: default #(default, plain, none)
+bibliography: ../rep2si.bib
+format: html
+---
+
+# Talks at Sunbelt Conference
+
+In June, Ivan and Eleanor are representing the Rep²SI team at the [Sunbelt Conference](https://sunbelt2025.org/) in Paris. Ivan presents preliminary work on "experienced inequality" and subjective social status. Eleanor presents on some related work from the ENDOW project and participates in a round table discussion on Social Networks and Inequality. 
+

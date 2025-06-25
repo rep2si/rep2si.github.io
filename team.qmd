@@ -52,10 +52,10 @@ The Rep²SI team is an interdisciplinary group!
 
 ::: {.column style="display:inline-block;width:380px;height:260px;border-radius:1em;margin:1%;padding:1.5%;background-color:#fafafa"}
 <figure>
-    <img src="/figures/tbd.svg" alt="Person TBD"  role="presentation" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;" class="img-responsive atto_image_button_text-bottom">
+    <img src="/figures/benoit.jpg" alt="Photograph of Benoit de Courson"  role="presentation" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;" class="img-responsive atto_image_button_text-bottom">
     <figcaption>
-        <strong>Research Officer in Modelling Social Dynamics</strong>
-        <br>TBD
+        <strong><a href="https://regicid.github.io/" target="_blank" class="external">Benoît de Courson</a></strong> 
+        <br>Research Officer in Modelling Social Dynamics
     </figcaption>
 
 </figure>
