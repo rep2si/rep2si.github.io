@@ -13,5 +13,5 @@ format: html
 
 # Talk at Australian National University
 
-On May 16, Eleanor will be presenting some of our first findings from the experimental games of the Rep²SI project at the Australian National University's [Biological Anthropology Research Seminar series](https://archanth.cass.anu.edu.au/events/dynamics-social-and-economic-inequality-cross-cultural-perspective-endow-and-rep2si). 
+On May 16, Eleanor presented some of our first findings from the experimental games of the Rep²SI project at the Australian National University's [Biological Anthropology Research Seminar series](https://archanth.cass.anu.edu.au/events/dynamics-social-and-economic-inequality-cross-cultural-perspective-endow-and-rep2si). 
 

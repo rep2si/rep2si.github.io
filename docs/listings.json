@@ -2,8 +2,17 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/blog/sunbelt/index.html",
+      "/blog/anu-talk/index.html",
+      "/blog/chicago-talk/index.html",
+      "/blog/ucl-talk/index.html",
+      "/blog/ijn-talk/index.html",
       "/blog/up-first/index.html",
-      "/blog/nepal-first/index.html"
+      "/blog/nepal-first/index.html",
+      "/blog/tse-talk/index.html",
+      "/blog/lausanne-talk/index.html",
+      "/blog/fog-talk/index.html",
+      "/blog/imebess-talk/index.html"
     ]
   }
 ]
